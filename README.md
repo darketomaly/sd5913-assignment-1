@@ -2,7 +2,7 @@
 
 The course assumes I'm either a designer or an artist. I'm actually somewhere in between; I'm a developer (more specifically, I have a B.Sc. in Video Game Programming). As a lead developer on a small indie company, I have worn multiple hats, handling marketing, project management, programming, art, and technical leadership.
 
-Although I do touch art, design, sound, project management, and other areas of development, my main role has been programming. With AI becoming more common, this has been increasingly under the microscope. While some may have been skeptical about AI a year ago, they will soon discover (if they haven't already) that generative AI is not going anywhere; it is here to stay.
+Although I do touch art, design, sound, project management, and other areas of development, my main role has been programming. In my case, I have used AI to help me speed processes that I am not too familiar with, or is not my area of expertise; like changing the pose of a 3D model for marketing purposes, updating the text of an image without needing to open the source psd file, etc. For programming specifically, I tend not to rely on agents, but use AI as a search engine on steroids instead; it was extremely frustrating to look for a bug online and finding an old forum post with no solution at all. With AI becoming more common, this has been increasingly under the microscope. While some may have been skeptical about AI a year ago, they will soon discover (if they haven't already) that generative AI is not going anywhere; it is here to stay.
 
 It is a bizarre thing to think about: imagine entering a painting class only to find out you can rely on AI entirely to paint. No brush is needed, and you don't get your hands dirty.
 
