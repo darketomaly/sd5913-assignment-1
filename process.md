@@ -4,6 +4,8 @@
 
 Rider AI chat with GitHub Copilot to generate this file and grammatically correct README.md.
 
+To add a bit more polish, I set up a webhook relay on my backend at api.darketomaly.com for push events, using a custom discord bot to format the notifications cleanly. I used Github Copilot to help me with some boring string formatting when the embed description exceeds the 4096-character limit.
+
 ## One thing it produced that you kept, and why it was good.
 
 While my wording was technically grammatically correct, AI helped making it more natural. For example, changing "find out" to "discover" or "your efforts were put into something else" to "your efforts were redirected elsewhere".
