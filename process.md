@@ -4,7 +4,9 @@
 
 Rider AI chat with GitHub Copilot to generate this file and grammatically correct README.md.
 
-To add a bit more polish, I set up a webhook relay on my backend at api.darketomaly.com for push events, using a custom discord bot to format the notifications cleanly. I used Github Copilot to help me with some boring string formatting when the embed description exceeds the 4096-character limit.
+To add a bit more polish, I set up a webhook relay on my backend at api.darketomaly.com for push events, using a custom discord bot to format the notifications cleanly. I used Github Copilot to help me with some boring string formatting when the embed description exceeds the 4096-character limit. This of course can be used on any Github repo.
+
+<img width="600" height=auto alt="image" src="https://github.com/user-attachments/assets/65826fab-1899-43e9-92c7-d5ab56d56a3c" />
 
 ## One thing it produced that you kept, and why it was good.
 
