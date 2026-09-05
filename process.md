@@ -8,7 +8,7 @@ To add a bit more polish, I set up a webhook relay on my backend at api.darketom
 
 ## One thing it produced that you kept, and why it was good.
 
-While my wording was technically grammatically correct, AI helped making it more natural. For example, changing "find out" to "discover" or "your efforts were put into something else" to "your efforts were redirected elsewhere".
+While my wording was technically grammatically correct, AI helped to make it more natural. For example, changing "find out" to "discover" or "your efforts were put into something else" to "your efforts were redirected elsewhere".
 
 ## One thing it produced that you rejected, and why it was wrong, generic, or not what you think.
 
